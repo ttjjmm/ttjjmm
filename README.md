@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ttjjmm
+- 👋 Hi, I’m Jimmy Tao, BUPTer.
 - 👀 I’m interested in CV, High Performance Computation or more.
 - 🌱 I’m currently learning NLP, CUDA C.
 - 💞️ I’m looking to collaborate on ...
