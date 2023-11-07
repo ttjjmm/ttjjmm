@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jimmy Tao.
-- 👀 I’m interested in Computer Vision, High Performance Computation or more.
+- 👀 I’m interested in LLM,Computer Vision, High Performance Computation or more.
 - 🌱 I’m currently learning GNN, CUDA C++.
 - 📫 How to reach me？ My Email: tjm468@163.com.
 
